@@ -13,11 +13,6 @@ Data generator is applied on demonstration initial data and generated graph is p
 
 Content is described in following table:
 
-   <style>
-      table,tr,th,td {
-         border:1px solid black;
-      }
-   </style>
 <table style="width: 100%">
 	<tr>
 		<th>Folder</th><th>Sub-Folded</th><th>File</th><th>Description</th>
